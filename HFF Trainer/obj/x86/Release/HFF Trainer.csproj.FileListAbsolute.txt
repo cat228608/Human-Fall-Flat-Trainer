@@ -1,0 +1,10 @@
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\bin\x86\Release\HFF Trainer.exe.config
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\bin\x86\Release\HFF Trainer.exe
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\bin\x86\Release\HFF Trainer.pdb
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\obj\x86\Release\HFF Trainer.csproj.AssemblyReference.cache
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\obj\x86\Release\HFF_Trainer.Form1.resources
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\obj\x86\Release\HFF_Trainer.Properties.Resources.resources
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\obj\x86\Release\HFF Trainer.csproj.GenerateResource.cache
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\obj\x86\Release\HFF Trainer.csproj.CoreCompileInputs.cache
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\obj\x86\Release\HFF Trainer.exe
+C:\Users\bebra\source\repos\HFF Trainer\HFF Trainer\obj\x86\Release\HFF Trainer.pdb
